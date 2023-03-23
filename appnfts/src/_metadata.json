@@ -1,0 +1,782 @@
+[
+  {
+    "name": "Jox Collections Test Price #1",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/1.png",
+    "dna": "0f869368bb62824b966a102883432a131479aa91",
+    "edition": 1,
+    "date": 1679241869162,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Jox Collections Test Price #2",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/2.png",
+    "dna": "92d6f5150aead5820b188bc56464b5e1961b160b",
+    "edition": 2,
+    "date": 1679241869301,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Jox Collections Test Price #3",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/3.png",
+    "dna": "3654d13c1440bde98231d526c0d4b7b3290cd36e",
+    "edition": 3,
+    "date": 1679241869453,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Jox Collections Test Price #4",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/4.png",
+    "dna": "967ee545edddccddd3a7043b0f810a97b06a82bd",
+    "edition": 4,
+    "date": 1679241869606,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Jox Collections Test Price #5",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/5.png",
+    "dna": "f795dbbebbe18288e2db37c0dcf21e202823d597",
+    "edition": 5,
+    "date": 1679241869747,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Jox Collections Test Price #6",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/6.png",
+    "dna": "c2709817a623ee9f2205ff09f5e19b9d142ed1c2",
+    "edition": 6,
+    "date": 1679241869895,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Jox Collections Test Price #7",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/7.png",
+    "dna": "53102f97aa4809a74e155b31ca63c9ccd71e14d0",
+    "edition": 7,
+    "date": 1679241870028,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Jox Collections Test Price #8",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/8.png",
+    "dna": "a07a9dad7fa467f9841644fe96e551bec34fca68",
+    "edition": 8,
+    "date": 1679241870172,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Jox Collections Test Price #9",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/9.png",
+    "dna": "59ed9aa1f8dba18e866485aeda070367f75a8c6f",
+    "edition": 9,
+    "date": 1679241870314,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Jox Collections Test Price #10",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/10.png",
+    "dna": "c77d171fc534c6ddb55015200470b19703145122",
+    "edition": 10,
+    "date": 1679241870444,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Jox Collections Test Price #11",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/11.png",
+    "dna": "2214750725e427806ee97a1510f514475056fce7",
+    "edition": 11,
+    "date": 1679241870570,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Jox Collections Test Price #12",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/12.png",
+    "dna": "6e82676d9271148253fed8d8509dcbd7191aed93",
+    "edition": 12,
+    "date": 1679241870710,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Jox Collections Test Price #13",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/13.png",
+    "dna": "dc5dfaea5852001c2039a7a5beb042bce5983dae",
+    "edition": 13,
+    "date": 1679241870839,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Jox Collections Test Price #14",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/14.png",
+    "dna": "ecd640d97620e4f94f4c0c577bcfe9bf649c98fe",
+    "edition": 14,
+    "date": 1679241870976,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Jox Collections Test Price #15",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/15.png",
+    "dna": "82c5ae136de47a627f25569d5d128f1de076a85b",
+    "edition": 15,
+    "date": 1679241871107,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Jox Collections Test Price #16",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/16.png",
+    "dna": "9a90509d2faeda9fe5f19852653a8033442665a0",
+    "edition": 16,
+    "date": 1679241871244,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Jox Collections Test Price #17",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/17.png",
+    "dna": "cfa27eeba852b5a1cc1b861892aa36c65b2df024",
+    "edition": 17,
+    "date": 1679241871384,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Jox Collections Test Price #18",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/18.png",
+    "dna": "0df9a556d29b9bb29ea934046fff1be70e3bb877",
+    "edition": 18,
+    "date": 1679241871525,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Jox Collections Test Price #19",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/19.png",
+    "dna": "d47b0a25b0dda3139a44cbb2d27d8975026f7683",
+    "edition": 19,
+    "date": 1679241871656,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Jox Collections Test Price #20",
+    "description": "Jox collection  Test Price by jox",
+    "image": "ipfs://QmZARd7UkbyPEyx5hTo8mFjon9kRnkikBHMpvfq2eoEXn9/20.png",
+    "dna": "a5b0f61ae3ab735c5f757819c4bd125edf7beddb",
+    "edition": 20,
+    "date": 1679241871792,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
