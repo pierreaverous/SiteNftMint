@@ -12,8 +12,9 @@ contract SmartContrat is ERC721Enumerable, Ownable {
   uint256 public maxSupply = 50;
   uint256 public maxMintAmount = 20;
   bool public paused = false;
-  mapping(uint256 => uint256) public nftPrices;
   mapping(address => bool) public whitelisted;
+  mapping(uint256 => uint256) public nftPrices;
+  mapping(uint256 => uint256) public nftEditionToId;
 
   constructor(
     string memory _name,
@@ -30,6 +31,27 @@ contract SmartContrat is ERC721Enumerable, Ownable {
   }
 
   // public
+//  function mint(address _to, uint256 _edition) public payable {
+//    uint256 supply = totalSupply();
+//    require(!paused);
+//    require(supply < maxSupply, "Maximum supply reached");
+//    require(_edition <= maxSupply, "Edition exceeds max supply");
+//    require(!_exists(_edition), "Edition already minted");
+//
+//    if (msg.sender != owner()) {
+//      if(whitelisted[msg.sender] != true) {
+//        require(msg.value >= cost, "Insufficient funds");
+//      }
+//    }
+//
+//    _safeMint(_to, _edition);
+//  }
+  function setNftSpecificPrice(uint256 _edition, uint256 _price) public onlyOwner {
+    require(_edition > 0, "Edition must be greater than 0");
+    require(_edition <= maxSupply, "Edition exceeds max supply");
+    nftPrices[_edition] = _price;
+  }
+
   function mint(address _to, uint256 _edition) public payable {
     uint256 supply = totalSupply();
     require(!paused);
@@ -37,14 +59,20 @@ contract SmartContrat is ERC721Enumerable, Ownable {
     require(_edition <= maxSupply, "Edition exceeds max supply");
     require(!_exists(_edition), "Edition already minted");
 
+    uint256 currentPrice = cost;
+    if (nftPrices[_edition] > 0) {
+      currentPrice = nftPrices[_edition];
+    }
+
     if (msg.sender != owner()) {
       if(whitelisted[msg.sender] != true) {
-        require(msg.value >= cost, "Insufficient funds");
+        require(msg.value >= currentPrice, "Insufficient funds");
       }
     }
 
     _safeMint(_to, _edition);
   }
+
 
   function walletOfOwner(address _owner)
   public
@@ -81,11 +109,6 @@ contract SmartContrat is ERC721Enumerable, Ownable {
   function setCost(uint256 _newCost) public onlyOwner {
     cost = _newCost;
   }
-  function setNftPrice(uint256 _nftId, uint256 _price) public onlyOwner {
-    require(_exists(_nftId), "NFT does not exist");
-    nftPrices[_nftId] = _price;
-  }
-
 
   function setmaxMintAmount(uint256 _newmaxMintAmount) public onlyOwner {
     maxMintAmount = _newmaxMintAmount;
@@ -115,4 +138,5 @@ contract SmartContrat is ERC721Enumerable, Ownable {
     require(payable(msg.sender).send(address(this).balance));
   }
 
-}
+ }
+
