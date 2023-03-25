@@ -3,9 +3,12 @@ import { useEffect, useState } from 'react';
 import { ethers } from 'ethers';
 import SmartContrat from './artifacts/contracts/SmartContrat.sol/SmartContrat.json';
 import './App.css';
-import dataNft from './_metadata.json';
+import dataNft from '../src/JSON/CollectionMagieCelteMetaDonnés.json';
+import { Link } from 'react-router-dom';
 
-const smartcontratAdress = '0x0b701613d9E84124682b7d719F01e5B31E786f21';
+
+const smartcontratAdress = '0xf0409E4f936786E4283843ee58E3b2E9305f6B8A';
+
 const setNftSpecificPrice = async (edition, newPrice, fetchData, setError) => {
   if (typeof window.ethereum !== 'undefined') {
     try {
@@ -198,6 +201,18 @@ const App = () => {
             Jox Collection NFT cost {Number(data.cost) / 10 ** 18} ETH (excluding gas fees)
           </p>
         </div>
+        <button>
+          <Link to="/collection2">L'eau</Link>
+        </button>
+        <button>
+          <Link to="/collection3">ING WAS</Link>
+        </button>
+        <button>
+          <Link to="/collection4">5 Saison</Link>
+        </button>
+        <button>
+        <Link to="/collection5">Univers</Link>
+      </button>
       </div>
   );
 }
